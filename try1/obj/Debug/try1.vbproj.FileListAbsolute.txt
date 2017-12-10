@@ -1,0 +1,12 @@
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\bin\Debug\try1.exe.config
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\bin\Debug\try1.exe
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\bin\Debug\try1.pdb
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\bin\Debug\try1.xml
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\obj\Debug\try1.vbprojResolveAssemblyReference.cache
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\obj\Debug\try1.vbproj.GenerateResource.Cache
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\obj\Debug\try1.exe
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\obj\Debug\try1.xml
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\obj\Debug\try1.pdb
+C:\Users\Aggelos\Documents\Visual Studio 2015\Projects\try1\try1\bin\Debug\MathParserNet.dll
