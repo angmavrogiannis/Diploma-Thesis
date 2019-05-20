@@ -32,3 +32,8 @@ Note: If the number of iterations is large enough (>3000) the procedure might ta
 
 # Example 1: Maximization of the stiffness of a cantilever beam
 ![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/rod.JPG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/beam_math.JPG)
+Implementation on the environment:
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/figure28.PNG)
+Results in Microsoft Office Excel:
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/'graph1.png')
