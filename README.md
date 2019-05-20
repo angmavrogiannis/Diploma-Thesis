@@ -33,7 +33,37 @@ Note: If the number of iterations is large enough (>3000) the procedure might ta
 # Example 1: Maximization of the stiffness of a cantilever beam
 ![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/rod.JPG)
 ![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/beam_math.JPG)
+
 Implementation on the environment:
+
 ![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/figure28.PNG)
+
 Results in Microsoft Office Excel:
-![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/'graph1.png')
+
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/graph1.png)
+
+# Example 2: Minimization of forces from a robotic gripper to an object
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/figure33.PNG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/figure30.PNG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math1.JPG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math2.JPG)
+
+Even though this environment only supports constraints containing inequalities, the required values are the following:
+
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math3.JPG)
+
+To this end, these constraints are integrated into the objective function. Squaring the sum of forces and the sum of moments, balance is maintained, while adding the two side forces and seeking the minimization of the whole quantity guarantees the minimization of each of these forces. Hence, the following minimization problem is expressed:
+
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math4.JPG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math5.JPG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math6.JPG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math7.JPG)
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/hand_math8.JPG)
+
+Implementation on the environment:
+
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/figure31.PNG)
+
+Results in Microsoft Office Excel:
+
+![alt text](https://raw.githubusercontent.com/angmavrogiannis/Diploma-Thesis/master/graph2.JPG)
